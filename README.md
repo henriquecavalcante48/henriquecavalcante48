@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 
 Atualmente estou estudando Desenvolvimento Front-end.
 
